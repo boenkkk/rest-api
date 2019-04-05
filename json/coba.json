@@ -1,0 +1,30 @@
+[
+	{
+		"nama" : "Budi",
+		"umur" : 25,
+		"nrp" : "23131",
+		"lulus" : true,
+		"hobby" : [
+			"coding",
+			"gaming"
+		],
+		"pembimbing" : {
+			"pembimbing1" : "Sukarno",
+			"pembimbing2" : "Istiqomah"
+		}
+	},
+	{
+		"nama" : "Santoso",
+		"umur" : 25,
+		"nrp" : "23131",
+		"lulus" : true,
+		"hobby" : [
+			"coding",
+			"gaming"
+		],
+		"pembimbing" : {
+			"pembimbing1" : "Sukarno",
+			"pembimbing2" : "Istiqomah"
+		}
+	}
+]
